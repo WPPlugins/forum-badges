@@ -1,0 +1,223 @@
+			#user-badges{
+				margin-bottom: 5px;
+				overflow: auto;
+			}
+
+			#user-badges { 
+				border-bottom: none;
+				padding: 0;
+			}
+
+			#user-badges.dashicons:before {
+				position: relative;
+				top: 7px;
+				left: 2px;
+				font-size: 40px;
+			}
+			.badge {
+				margin: 4px;
+				margin-right: 5px;
+				margin-bottom: 10px !important;
+				width: 55px !important;
+				height: 55px !important;
+				border: 2px solid white;
+				border-radius: 50%;
+				box-sizing: border-box;
+			}
+
+			.badge-themes {
+				background: white;
+				box-shadow: 0 0 0 4px #4e3288;
+			}
+			.badge-themes:before {
+				color: #4e3288;
+			}
+
+			.badge-themes-reviewer {
+				background: #d2cbe1;
+				box-shadow: 0 0 0 4px #4e3288;
+			}
+			.badge-themes-reviewer:before {
+				color: #4e3288;
+			}
+
+			.badge-plugins {
+				background: white;
+				box-shadow: 0 0 0 4px #F06723;
+			}
+			.badge-plugins:before {
+				color: #F06723;
+			}
+
+			.badge-plugins-reviewer {
+				background: #fbd9c8;
+				box-shadow: 0 0 0 4px #F06723;
+			}
+			.badge-plugins-reviewer:before {
+				color: #F06723;
+			}
+
+			.badge-community {
+				background: white;
+				box-shadow: 0 0 0 4px #11799d;
+			}
+			.badge-community:before {
+				color: #11799d;
+			}
+
+			.badge-meta {
+				background: #eaeaea;
+				box-shadow: 0 0 0 4px #aeadad;
+			}
+			.badge-meta:before {
+				color: #aeadad;
+			}
+
+			.badge-meta-contributor {
+				background: white;
+				box-shadow: 0 0 0 4px #aeadad;
+			}
+			.badge-meta-contributor:before {
+				color: #AEADAD;
+			}
+
+			.badge-code {
+				background: white;
+				box-shadow: 0 0 0 4px #cd0000;
+			}
+			.badge-code:before {
+				color: #cd0000;
+			}
+
+			.badge-code-committer {
+				background: #eac4c6;
+				box-shadow: 0 0 0 4px #cd0000;
+			}
+			.badge-code-committer:before {
+				color: #cd0000;
+			}
+
+			.badge-support {
+				background: #ccecf2;
+				box-shadow: 0 0 0 4px #33B4CE;
+			}
+			.badge-support:before {
+				color: #33B4CE;
+			}
+
+			.badge-support-contributor {
+				background: white;
+				box-shadow: 0 0 0 4px #33B4CE;
+			}
+			.badge-support-contributor:before {
+				color: #33B4CE;
+			}
+
+			.badge-wordpress-tv {
+				background: #dcebcb;
+				box-shadow: 0 0 0 4px #73ad30;
+			}
+			.badge-wordpress-tv:before {
+				color: #73ad30;
+			}
+
+			.badge-wordpress-tv-contributor {
+				background: white;
+				box-shadow: 0 0 0 4px #73ad30;
+			}
+			.badge-wordpress-tv-contributor:before {
+				color: #73ad30;
+			}
+
+			.badge-props {
+				background: white;
+				box-shadow: 0 0 0 4px #f4c542;
+			}
+			.badge-props:before {
+				color: #f4c542;
+			}
+
+			.badge-organizer {
+				background: white;
+				box-shadow: 0 0 0 4px #11799d;
+			}
+			.badge-organizer:before {
+				color: #11799d;
+			}
+
+			.badge-speaker {
+				background: white;
+				box-shadow: 0 0 0 4px #F7AD43;
+			}
+			.badge-speaker:before {
+				color: #F7AD43;
+			}
+
+			.badge-networking:before {
+				top: 11px;
+				left: 0;
+			}
+
+			.badge-accessibility {
+				background: #c3dde6;
+				box-shadow: 0 0 0 4px #11799D;
+			}
+			.badge-accessibility:before {
+				color: #11799D;
+			}
+
+			.badge-documentation {
+				background: #cedbcc;
+				box-shadow: 0 0 0 4px #3B7236;
+			}
+			.badge-documentation:before {
+				color: #3B7236;
+			}
+
+			.badge-documentation-contributor {
+				background: white;
+				box-shadow: 0 0 0 4px #3B7236;
+			}
+			.badge-documentation-contributor:before {
+				color: #3B7236;
+			}
+
+			.badge-mobile {
+				background: #fee7da;
+				box-shadow: 0 0 0 4px #FBA16C;
+			}
+			.badge-mobile:before {
+				color: #FBA16C;
+			}
+
+			.badge-training {
+				background: white;
+				box-shadow: 0 0 0 4px #E9C02D;
+			}
+			.badge-training:before {
+				color: #E9C02D;
+			}
+
+			.badge-training-team {
+				background: #F9EFCA;
+				box-shadow: 0 0 0 4px #E9C02D;
+			}
+			.badge-training-team:before {
+				color: #E9C02D;
+			}
+
+			.badge-translation-contributor {
+				background: white;
+				box-shadow: 0 0 0 4px #C32283;
+			}
+			.badge-translation-contributor:before {
+				color: #C32283;
+			}
+
+			.badge-translation-editor {
+				background: #F0C7E0;
+				box-shadow: 0 0 0 4px #C32283;
+			}
+			.badge-translation-editor:before {
+				color: #C32283;
+			}
